@@ -2,21 +2,19 @@ DOCTYPE html>
 <html lang="en">
 <head>
 <!-- Le styles -->
-<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" />
-<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css" />
-<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
-<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+<script src="js/jquery-1.9.1.js"></script>
+
+<script src="js/bootstrap.min.js"></script>
+
 <link href="css/bootstrap.css" rel="stylesheet">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script>
+
 </head>
 <body>
  <nav class="navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-    <h2>Employee details</h2>
+    <h2 style="color: beige;">Employee Details</h2>
     </div>
   </div>
 </nav>
